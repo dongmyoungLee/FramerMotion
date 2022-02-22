@@ -1,0 +1,5 @@
+npm install framer-motion
+
+
+
+npm install @craco/craco --save
